@@ -65,7 +65,7 @@ app.post("/failure", function(req, res){
 
 
 // Run on local port
-
-app.listen(3000, function(){
-  console.log("Your on port 3000");
-});
+//
+// app.listen(3000, function(){
+//   console.log("Your on port 3000");
+// });
